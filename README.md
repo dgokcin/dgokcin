@@ -11,6 +11,7 @@
 ![docker badge](https://img.shields.io/badge/Docker-30302f?style=flat&logo=docker)
 ![kubernetes badge](https://img.shields.io/badge/Kubernetes-30302f?style=flat&logo=kubernetes)
 ![jenkins badge](https://img.shields.io/badge/Jenkins-30302f?style=flat&logo=jenkins)
+![jenkins badge](https://img.shields.io/badge/SonarQube-30302f?style=flat&logo=sonarqube)
 ![linux badge](https://img.shields.io/badge/linux-30302f?style=flat&logo=linux)
 ![ansible badge](https://img.shields.io/badge/Ansible-30302f?style=flat&logo=ansible)
 ![vim badge](https://img.shields.io/badge/vim-30302f?style=flat&logo=vim)
