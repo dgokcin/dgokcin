@@ -8,3 +8,12 @@
 [![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+
+## Tech-stack
+![python badge](https://img.shields.io/badge/Python-30302f?style=flat&logo=python)
+![docker badge](https://img.shields.io/badge/Docker-30302f?style=flat&logo=docker)
+![kubernetes badge](https://img.shields.io/badge/Kubernetes-30302f?style=flat&logo=kubernetes)
+![jenkins badge](https://img.shields.io/badge/jenkins-30302f?style=flat&logo=jenkins)
+![vim badge](https://img.shields.io/badge/vim-30302f?style=flat&logo=vim)
+
+
