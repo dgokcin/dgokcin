@@ -1,9 +1,8 @@
-## 💼 Currently working as: Software Engineering Specialist at General Electric Aviation
+## 👤 About Me
 [![linkedin badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=linkedin)](https://www.linkedin.com/in/denizgokcin-478911117/)
+[![gmail Badge](https://img.shields.io/badge/Gmail-00000f?style=flat&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:dgokcin@gmail.com)
 [![bitbucket badge](https://img.shields.io/badge/dgokcin-00000f?style=flat&logo=bitbucket)](https://bitbucket.org/dgokcin/)
 [![dockerhub badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=docker)](https://hub.docker.com/u/denizgokcin)
-[![gmail Badge](https://img.shields.io/badge/gmail-00000f?style=flat&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:dgokcin@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dgokcin.visitor-badge)
 
 ## 🛠️ Technologies & Tools
 ![python badge](https://img.shields.io/badge/Python-00000f?style=flat&logo=python)
@@ -15,6 +14,7 @@
 ![sonarqube badge](https://img.shields.io/badge/SonarQube-00000f?style=flat&logo=sonarqube)
 ![git badge](http://img.shields.io/badge/-Git-00000f?style=flat&logo=git&logoColor=FFFFFF)
 ![linux badge](https://img.shields.io/badge/linux-00000f?style=flat&logo=linux)
+![actions badge](https://img.shields.io/badge/GitHub_Actions-00000f?style=flat&logo=github-actions)
 ![ansible badge](https://img.shields.io/badge/Ansible-00000f?style=flat&logo=ansible)
 ![vim badge](https://img.shields.io/badge/vim-00000f?style=flat&logo=vim)
 ![latex badge](https://img.shields.io/badge/LaTeX-00000f?style=flat&logo=latex)
