@@ -2,7 +2,7 @@
 [![linkedin badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=linkedin)](https://www.linkedin.com/in/denizgokcin-478911117/)
 [![bitbucket badge](https://img.shields.io/badge/dgokcin-00000f?style=flat&logo=bitbucket)](https://bitbucket.org/dgokcin/)
 [![dockerhub badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=docker)](https://hub.docker.com/u/denizgokcin)
-[![gmail Badge](https://img.shields.io/badge/-gmail-00000f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:houshuai0816@gmail.com)
+[![gmail Badge](https://img.shields.io/badge/gmail-00000f?style=flat&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:dgokcin@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dgokcin.visitor-badge)
 
 ## 🛠️ Technologies & Tools
