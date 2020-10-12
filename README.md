@@ -7,9 +7,11 @@
 ## Tools I work upon
 ![python badge](https://img.shields.io/badge/Python-30302f?style=flat&logo=python)
 ![java badge](https://img.shields.io/badge/Java-30302f?style=flat&logo=java)
+![bash badge](https://img.shields.io/badge/bash-30302f?style=flat&logo=bash)
 ![docker badge](https://img.shields.io/badge/Docker-30302f?style=flat&logo=docker)
 ![kubernetes badge](https://img.shields.io/badge/Kubernetes-30302f?style=flat&logo=kubernetes)
 ![jenkins badge](https://img.shields.io/badge/Jenkins-30302f?style=flat&logo=jenkins)
+![linux badge](https://img.shields.io/badge/bash-30302f?style=flat&logo=linux)
 ![ansible badge](https://img.shields.io/badge/Ansible-30302f?style=flat&logo=ansible)
 ![vim badge](https://img.shields.io/badge/vim-30302f?style=flat&logo=vim)
 ![latex badge](https://img.shields.io/badge/LaTeX-30302f?style=flat&logo=latex)
