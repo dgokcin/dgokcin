@@ -20,7 +20,7 @@
 ![latex badge](https://img.shields.io/badge/LaTeX-00000f?style=flat&logo=latex)
 
 ## 📈 GitHub Stats
-[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+[![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+[![](./profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
