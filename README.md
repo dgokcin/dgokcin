@@ -19,6 +19,10 @@
 ![vim badge](https://img.shields.io/badge/vim-00000f?style=flat&logo=vim)
 ![latex badge](https://img.shields.io/badge/LaTeX-00000f?style=flat&logo=latex)
 
+## 📊 Weekly Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📈 GitHub Stats
 [![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
