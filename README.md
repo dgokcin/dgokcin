@@ -23,7 +23,9 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2021 - 09 February, 2021
+
+Python       11 mins         ████████████████████████▒   96.68 % 
 ```
 <!--END_SECTION:waka-->
 
