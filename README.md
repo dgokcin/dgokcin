@@ -23,7 +23,7 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
 Python       11 mins         ████████████████████████▒   96.68 % 
 ```
