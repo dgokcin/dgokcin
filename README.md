@@ -23,7 +23,7 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
 Bash                3 mins          ███████████████████░░░░░░   76.09 % 
 ```
