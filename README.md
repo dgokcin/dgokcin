@@ -23,9 +23,9 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 07 March, 2021 - 14 March, 2021
 
-Other    12 mins         ████████████████████████░   95.50 % 
+
 ```
 <!--END_SECTION:waka-->
 
