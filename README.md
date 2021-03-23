@@ -23,7 +23,9 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 March, 2021 - 22 March, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
