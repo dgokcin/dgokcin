@@ -23,9 +23,9 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
-VimL         10 mins         ██████████████████████░░░   88.50 % 
+
 ```
 <!--END_SECTION:waka-->
 
