@@ -23,7 +23,9 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 June, 2021 - 20 June, 2021
+
+VimL   10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
