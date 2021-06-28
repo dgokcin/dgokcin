@@ -23,9 +23,9 @@
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 20 June, 2021 - 26 June, 2021
+Week: 21 June, 2021 - 27 June, 2021
 
-VimL   10 mins         █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
