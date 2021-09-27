@@ -11,6 +11,8 @@
 ![docker badge](https://img.shields.io/badge/Docker-00000f?style=flat&logo=docker)
 ![kubernetes badge](https://img.shields.io/badge/Kubernetes-00000f?style=flat&logo=kubernetes)
 ![openshift badge](https://img.shields.io/badge/OpenShift-00000f?style=flat&logo=red-hat-open-shift)
+![aws badge](https://img.shields.io/badge/AWS-00000f?style=flat&logo=amazon-aws)
+![terraform badge](https://img.shields.io/badge/Terraform-?style=flat&logo=terraform)
 ![jenkins badge](https://img.shields.io/badge/Jenkins-00000f?style=flat&logo=jenkins)
 ![sonarqube badge](https://img.shields.io/badge/SonarQube-00000f?style=flat&logo=sonarqube)
 ![git badge](http://img.shields.io/badge/-Git-00000f?style=flat&logo=git&logoColor=FFFFFF)
