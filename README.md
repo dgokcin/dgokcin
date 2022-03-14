@@ -26,10 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
-Terraform                  2 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   32.58 %
-Other                      1 hr 30 mins    ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+Other                      1 hr 30 mins    ███████▒░░░░░░░░░░░░░░░░░   29.01 %
 ```
 
 <!--END_SECTION:waka-->
