@@ -26,9 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-Other                      7 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.57 %
+YAML                       4 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   37.05 %
+Other                      3 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.01 %
 ```
 
 <!--END_SECTION:waka-->
