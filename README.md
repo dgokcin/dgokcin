@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
+From: 31 March 2022 - To: 07 April 2022
 
-HCL          9 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.40 %
-Terraform    8 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-YAML         8 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Other        3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+HCL          10 hrs 8 mins   ███████▓░░░░░░░░░░░░░░░░░   30.38 %
+Terraform    8 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+YAML         7 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+Other        3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
 ```
 
 <!--END_SECTION:waka-->
