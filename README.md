@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 June 2022 - To: 05 July 2022
+From: 29 June 2022 - To: 06 July 2022
 
-YAML                       3 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.40 %
-JavaScript                 3 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.46 %
-Other                      29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+YAML                       4 hrs 13 mins   █████████████░░░░░░░░░░░░   52.48 %
+JavaScript                 2 hrs 55 mins   █████████░░░░░░░░░░░░░░░░   36.31 %
+Other                      29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 ```
 
 <!--END_SECTION:waka-->
