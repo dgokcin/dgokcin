@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
+From: 07 July 2022 - To: 14 July 2022
 
-YAML         5 hrs 40 mins   ████████████████░░░░░░░░░   63.75 %
-JavaScript   1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
-Python       55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+YAML         6 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.22 %
+Python       2 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+JavaScript   1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 ```
 
 <!--END_SECTION:waka-->
