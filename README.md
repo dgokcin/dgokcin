@@ -26,12 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 July 2022 - To: 31 July 2022
+From: 27 July 2022 - To: 03 August 2022
 
-TeX            3 hrs 39 mins   ██████████████████▒░░░░░░   73.15 %
-OpenEdge ABL   32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-YAML           28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Other          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+TeX                        3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+HCL                        2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
+YAML                       2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Bash                       2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Nginx configuration file   2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Other                      52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
