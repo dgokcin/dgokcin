@@ -26,12 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
-JavaScript                 5 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 %
-YAML                       3 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-HCL                        3 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-Other                      2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+HCL                        3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 %
+YAML                       3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
+Other                      2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
 ```
 
 <!--END_SECTION:waka-->
