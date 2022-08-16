@@ -26,11 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-HCL                        3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 %
-YAML                       3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
-Other                      2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+HCL                        4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.76 %
+Nginx configuration file   4 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+YAML                       3 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Other                      2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
 ```
 
 <!--END_SECTION:waka-->
