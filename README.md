@@ -26,11 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 August 2022 - To: 23 August 2022
+From: 18 August 2022 - To: 25 August 2022
 
-YAML                       4 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.67 %
-HCL                        2 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Other                      2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+YAML         3 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.91 %
+Other        1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
 ```
 
 <!--END_SECTION:waka-->
