@@ -26,10 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 29 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-HCL          2 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.57 %
-Other        1 hr 17 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+HCL         2 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.21 %
+Terraform   1 hr 6 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+Other       40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
 ```
 
 <!--END_SECTION:waka-->
