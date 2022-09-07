@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
-HCL                        3 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.15 %
-YAML                       2 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   29.22 %
-JavaScript                 58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Terraform                  34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Markdown                   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-JSON                       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+HCL                        3 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.82 %
+YAML                       2 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+JavaScript                 58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Terraform                  26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Markdown                   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+JSON                       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
