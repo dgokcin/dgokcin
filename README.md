@@ -26,12 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-YAML                       4 hrs 28 mins   ████████████████▓░░░░░░░░   66.17 %
-XML                        27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Markdown                   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Other                      23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+YAML                       4 hrs 57 mins   ████████████████▓░░░░░░░░   66.09 %
+Nginx configuration file   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Markdown                   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+XML                        27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+HCL                        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Other                      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
