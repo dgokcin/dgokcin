@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2022 - To: 30 September 2022
+From: 24 September 2022 - To: 01 October 2022
 
-YAML                       7 hrs           ████████▓░░░░░░░░░░░░░░░░   34.70 %
-HCL                        4 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Python                     2 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-JSON                       2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-Terraform                  1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Markdown                   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+YAML                       3 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+HCL                        2 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
+JSON                       2 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Nginx configuration file   1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Terraform                  57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Markdown                   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
 ```
 
 <!--END_SECTION:waka-->
