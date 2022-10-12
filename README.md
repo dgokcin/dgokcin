@@ -28,12 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 October 2022 - To: 10 October 2022
+From: 04 October 2022 - To: 11 October 2022
 
-HCL                        7 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.93 %
-YAML                       3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
-Markdown                   2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Other                      1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+HCL                        7 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   41.33 %
+YAML                       2 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+Markdown                   2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Other                      1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
 ```
 
 <!--END_SECTION:waka-->
