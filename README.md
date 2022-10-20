@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-YAML         7 hrs 28 mins   ████████████████████▒░░░░   81.74 %
-Other        51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+YAML         8 hrs 41 mins   █████████████████████░░░░   84.06 %
+Other        51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
 ```
 
 <!--END_SECTION:waka-->
