@@ -28,14 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 06 November 2022
+From: 31 October 2022 - To: 07 November 2022
 
-YAML                       7 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.21 %
-HCL                        5 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 %
-JavaScript                 2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-C#                         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Bash                       1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Other                      1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+YAML                       7 hrs 18 mins   ███████▓░░░░░░░░░░░░░░░░░   30.06 %
+HCL                        5 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+JavaScript                 4 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+Other                      1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
