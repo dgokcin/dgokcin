@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
+From: 18 November 2022 - To: 25 November 2022
 
-Terraform    2 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.53 %
-HCL          2 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
-Other        58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+HCL          3 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.46 %
+Terraform    2 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.80 %
+Other        1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 ```
 
 <!--END_SECTION:waka-->
