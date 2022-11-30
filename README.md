@@ -28,12 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 28 November 2022
+From: 22 November 2022 - To: 29 November 2022
 
-HCL          3 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-YAML         3 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-Terraform    2 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Other        1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+YAML         4 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.82 %
+HCL          3 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+Terraform    2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+Other        1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
 ```
 
 <!--END_SECTION:waka-->
