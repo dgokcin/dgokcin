@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 01 December 2022
+From: 25 November 2022 - To: 02 December 2022
 
-HCL          5 hrs 13 mins   ███████████▒░░░░░░░░░░░░░   44.69 %
-YAML         4 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   35.07 %
-Other        54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+HCL          4 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.63 %
+YAML         3 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
+Other        38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
 ```
 
 <!--END_SECTION:waka-->
