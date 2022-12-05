@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 27 November 2022 - To: 04 December 2022
 
-HCL          4 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.63 %
-YAML         3 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
+HCL          4 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.59 %
+YAML         4 hrs           ██████████░░░░░░░░░░░░░░░   39.98 %
 Other        38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
 ```
 
