@@ -28,14 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-HCL                        1 hr 30 mins    ████████▓░░░░░░░░░░░░░░░░   34.57 %
-Python                     56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
-YAML                       54 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-Terraform                  21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-JavaScript                 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Other                      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Other                      1 hr 37 mins    ████████▓░░░░░░░░░░░░░░░░   34.63 %
 ```
 
 <!--END_SECTION:waka-->
