@@ -28,10 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 13 December 2022
+From: 07 December 2022 - To: 14 December 2022
 
-Python                     1 hr 50 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-Other                      1 hr 44 mins    █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Other        1 hr 37 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
 ```
 
 <!--END_SECTION:waka-->
