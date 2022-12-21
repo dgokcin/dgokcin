@@ -28,14 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-YAML         1 hr 16 mins    ███████░░░░░░░░░░░░░░░░░░   27.50 %
-HCL          56 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 %
-JavaScript   47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-Vim Script   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-JSON         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Other        18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Other        2 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   31.73 %
 ```
 
 <!--END_SECTION:waka-->
