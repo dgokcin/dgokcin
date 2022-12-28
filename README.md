@@ -28,9 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Other        2 hrs           ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+Python       3 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   42.25 %
+YAML         2 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+HCL          1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+JSON         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
