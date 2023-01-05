@@ -28,12 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-Python       7 hrs 59 mins   ████████████░░░░░░░░░░░░░   47.67 %
-YAML         5 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.11 %
-JSON         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Python       6 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   43.30 %
+YAML         5 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.17 %
+Other        1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
 ```
 
 <!--END_SECTION:waka-->
