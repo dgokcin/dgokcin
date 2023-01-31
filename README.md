@@ -28,11 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 29 January 2023
+From: 23 January 2023 - To: 30 January 2023
 
-YAML                       8 hrs 55 mins   ███████████████░░░░░░░░░░   59.47 %
-HCL                        2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-Other                      1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+YAML                       7 hrs 57 mins   ███████████████▓░░░░░░░░░   63.13 %
+HCL                        1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Python                     50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Other                      39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
