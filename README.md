@@ -28,11 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-YAML       2 hrs 41 mins   ██████████████████▒░░░░░░   73.25 %
-HCL        35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Other      16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
