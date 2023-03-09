@@ -28,10 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-Go                         26 hrs 31 mins  █████████████████▓░░░░░░░   70.12 %
-Other                      2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Go                         27 hrs 19 mins  █████████████████▓░░░░░░░   71.14 %
+HCL                        2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Other                      2 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
 
 <!--END_SECTION:waka-->
