@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
 Go           22 hrs 15 mins  ██████████████████░░░░░░░   71.89 %
 HCL          3 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
