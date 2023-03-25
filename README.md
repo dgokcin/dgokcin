@@ -28,14 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Go           7 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.24 %
-HCL          2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Terraform    1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-JavaScript   1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-YAML         1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Git Config   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Go           8 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   44.89 %
+Other        2 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
 ```
 
 <!--END_SECTION:waka-->
