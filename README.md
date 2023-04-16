@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2023 - To: 14 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
 YAML         10 hrs 36 mins  █████████▒░░░░░░░░░░░░░░░   37.20 %
 JavaScript   8 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   30.61 %
