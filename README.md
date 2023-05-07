@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 29 April 2023 - To: 06 May 2023
 
-YAML         3 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.68 %
-Markdown     3 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-Other        2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Terraform    1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-JSON         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+YAML         3 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 %
+Markdown     3 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+Other        2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Terraform    1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+JSON         1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
 ```
 
 <!--END_SECTION:waka-->
