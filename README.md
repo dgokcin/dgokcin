@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2023 - To: 15 May 2023
+From: 09 May 2023 - To: 16 May 2023
 
-YAML                       15 hrs 14 mins  █████████████████▓░░░░░░░   71.28 %
-HCL                        2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Markdown                   1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Bash                       1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Nginx configuration file   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+YAML                       11 hrs 59 mins  █████████████████▒░░░░░░░   69.31 %
+HCL                        3 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Markdown                   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Nginx configuration file   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other                      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
