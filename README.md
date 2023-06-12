@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
 HCL                        3 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   40.80 %
 YAML                       3 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.39 %
