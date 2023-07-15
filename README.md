@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2023 - To: 13 July 2023
+From: 07 July 2023 - To: 14 July 2023
 
-Go                         6 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.20 %
-HCL                        5 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.35 %
-YAML                       1 hr 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Nginx configuration file   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Other                      40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Go                         6 hrs 44 mins   ████████████▓░░░░░░░░░░░░   51.14 %
+HCL                        1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+YAML                       1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+JavaScript                 57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Nginx configuration file   49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
 ```
 
 <!--END_SECTION:waka-->
