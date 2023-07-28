@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2023 - To: 26 July 2023
+From: 20 July 2023 - To: 27 July 2023
 
-Terraform                  4 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
-Other                      2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-YAML                       2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-JavaScript                 1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-TypeScript                 1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Terraform                  4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
+JavaScript                 3 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+HCL                        2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+Other                      2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+YAML                       2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
 ```
 
 <!--END_SECTION:waka-->
