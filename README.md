@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2023 - To: 01 August 2023
+From: 26 July 2023 - To: 02 August 2023
 
-HCL                        3 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   28.85 %
-JavaScript                 1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-TypeScript                 1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Other                      1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-YAML                       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+HCL          3 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   35.31 %
+JavaScript   2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+YAML         1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+Bash         59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 ```
 
 <!--END_SECTION:waka-->
