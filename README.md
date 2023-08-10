@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2023 - To: 08 August 2023
+From: 02 August 2023 - To: 09 August 2023
 
-YAML         7 hrs 3 mins    ████████████░░░░░░░░░░░░░   47.75 %
-JavaScript   6 hrs 29 mins   ███████████░░░░░░░░░░░░░░   43.86 %
-Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-HCL          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Terraform    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+YAML         12 hrs 38 mins  ███████████████▓░░░░░░░░░   62.31 %
+JavaScript   6 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.48 %
+Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+HCL          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
