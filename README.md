@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
 YAML         27 mins         ██████████████████░░░░░░░   71.70 %
 JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
