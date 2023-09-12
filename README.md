@@ -28,13 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
-YAML         27 mins         ██████████████████░░░░░░░   71.70 %
-JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-HCL          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
