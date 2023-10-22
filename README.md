@@ -28,9 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-No activity tracked
+YAML         1 hr 41 mins    ███████████░░░░░░░░░░░░░░   44.25 %
+Markdown     1 hr 24 mins    █████████▒░░░░░░░░░░░░░░░   36.79 %
+JSON         30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+TOML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+TeX          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
