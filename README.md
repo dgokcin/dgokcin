@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
 YAML         4 hrs 58 mins   ███████████████▓░░░░░░░░░   62.69 %
 Markdown     2 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 %
