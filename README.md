@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2023 - To: 22 December 2023
+From: 16 December 2023 - To: 23 December 2023
 
-TypeScript    1 hr 24 mins    ████████▒░░░░░░░░░░░░░░░░   33.08 %
-YAML          1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.00 %
-Git Config    37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-JSON          33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Markdown      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+YAML          1 hr 16 mins    ████████▒░░░░░░░░░░░░░░░░   33.19 %
+TypeScript    1 hr            ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+Git Config    37 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+JSON          33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Markdown      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
