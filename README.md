@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
 YAML          1 hr 16 mins    ████████▒░░░░░░░░░░░░░░░░   33.19 %
 TypeScript    1 hr            ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
