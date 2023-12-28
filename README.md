@@ -28,12 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Git Config    10 mins         ███████████░░░░░░░░░░░░░░   44.52 %
-AppleScript   7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.64 %
-YAML          6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-Vim Script    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+AppleScript   7 mins          ███████████████████████▓░   94.41 %
+YAML          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
