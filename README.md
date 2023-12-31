@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-AppleScript   7 mins          ███████████████████████▓░   94.41 %
-YAML          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+YAML          0 secs          ██████████████████░░░░░░░   72.04 %
+AppleScript   0 secs          ███████░░░░░░░░░░░░░░░░░░   27.96 %
 ```
 
 <!--END_SECTION:waka-->
