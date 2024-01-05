@@ -28,9 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-YAML   3 mins          █████████████████████████   100.00 %
+YAML         3 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.69 %
+Python       1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+TypeScript   44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Makefile     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
