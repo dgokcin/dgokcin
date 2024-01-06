@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-YAML         3 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.69 %
-Python       1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-TypeScript   44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Makefile     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+YAML         4 hrs 51 mins   ████████████░░░░░░░░░░░░░   47.46 %
+Python       2 hrs           █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+Markdown     1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+TypeScript   57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
 ```
 
 <!--END_SECTION:waka-->
