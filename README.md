@@ -4,6 +4,8 @@
 [![bitbucket badge](https://img.shields.io/badge/dgokcin-00000f?style=flat&logo=bitbucket)](https://bitbucket.org/dgokcin/)
 [![dockerhub badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=docker)](https://hub.docker.com/u/denizgokcin)
 
+![gifOS](os.gif)
+
 ## 🛠️ Technologies & Tools
 ![docker badge](https://img.shields.io/badge/Docker-00000f?style=flat&logo=docker)
 ![aws badge](https://img.shields.io/badge/AWS-00000f?style=flat&logo=amazon-aws)
