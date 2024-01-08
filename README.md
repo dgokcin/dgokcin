@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
 YAML         4 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.20 %
 Python       2 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
