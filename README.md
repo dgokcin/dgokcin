@@ -1,48 +1,30 @@
-## 👤 About Me
-[![linkedin badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=linkedin)](https://www.linkedin.com/in/denizgokcin-478911117/)
-[![gmail Badge](https://img.shields.io/badge/Gmail-00000f?style=flat&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:dgokcin@gmail.com)
-[![bitbucket badge](https://img.shields.io/badge/dgokcin-00000f?style=flat&logo=bitbucket)](https://bitbucket.org/dgokcin/)
-[![dockerhub badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=docker)](https://hub.docker.com/u/denizgokcin)
-
 ![gifOS](os.gif)
 
-## 🛠️ Technologies & Tools
-![docker badge](https://img.shields.io/badge/Docker-00000f?style=flat&logo=docker)
-![aws badge](https://img.shields.io/badge/AWS-00000f?style=flat&logo=amazon-aws)
-![ecs](https://img.shields.io/badge/Amazon_ECS-00000f?style=flat&logo=amazon-ecs)
-![lambda](https://img.shields.io/badge/AWS_Lambda-00000f?style=flat&logo=aws-lambda)
-![terraform badge](https://img.shields.io/badge/Terraform-00000f?style=flat&logo=terraform)
-![git badge](http://img.shields.io/badge/-Git-00000f?style=flat&logo=git&logoColor=FFFFFF)
-![actions badge](https://img.shields.io/badge/GitHub_Actions-00000f?style=flat&logo=github-actions)
-![sonarqube badge](https://img.shields.io/badge/SonarQube-00000f?style=flat&logo=sonarqube)
-![python badge](https://img.shields.io/badge/Python-00000f?style=flat&logo=python)
-![bash badge](https://img.shields.io/badge/bash-00000f?style=flat&logo=gnu-bash)
-![kubernetes badge](https://img.shields.io/badge/Kubernetes-00000f?style=flat&logo=kubernetes)
-![openshift badge](https://img.shields.io/badge/OpenShift-00000f?style=flat&logo=red-hat-open-shift)
-![jenkins badge](https://img.shields.io/badge/Jenkins-00000f?style=flat&logo=jenkins)
-![linux badge](https://img.shields.io/badge/linux-00000f?style=flat&logo=linux)
-![ansible badge](https://img.shields.io/badge/Ansible-00000f?style=flat&logo=ansible)
-![vim badge](https://img.shields.io/badge/vim-00000f?style=flat&logo=vim)
-![latex badge](https://img.shields.io/badge/LaTeX-00000f?style=flat&logo=latex)
+[![Follow on Twitter](https://shields.io/twitter/follow/deniz_gokcin?label=Follow)](https://twitter.com/deniz_gokcin) 
+---
+
+## Popular Repositories
+<table>
+<tr><td><a href="https://github.com/dgokcin/binance-triangle-arbitrage">binance-triangle-arbitrage</a></td><td>A short script for finding triangle arbitrage  opportunities in Binance.</td><td align="center" width="12%">10 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/dotfiles">dotfiles</a></td><td>A repository for storing my dotfiles.</td><td align="center" width="12%">3 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/design-patterns">design-patterns</a></td><td>Design Patterns implemented in Java.</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/petsc4py">petsc4py</a></td><td>A Dockerized environment with petsc and its python dependencies.</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/game-leaderboard">game-leaderboard</a></td><td>A REST API endpoint that manages a game that uses a leaderboard with players submitting new scores from around the world.</td><td align="center" width="12%">1 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terraform-aws-ecs-container-definition">terraform-aws-ecs-container-definition</a></td><td>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the  aws_ecs_task_definition Terraform resource</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/kickstart.nvim">kickstart.nvim</a></td><td>A launch point for your personal nvim configuration</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terraform-aws-rds-cloudwatch-sns-alarms">terraform-aws-rds-cloudwatch-sns-alarms</a></td><td>Terraform module that configures important RDS alerts using CloudWatch and sends them to an SNS topic</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terrateamio-action">terrateamio-action</a></td><td>Terrateam Action</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/aws-starter-react-for-github-actions">aws-starter-react-for-github-actions</a></td><td>A template to create a React app and deploy it with the AWS CloudFormation Action for GitHub Actions on the AWS cloud</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/monorepo">monorepo</a></td><td>A repository with multiple packages</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/docker-atlantis-terragrunt">docker-atlantis-terragrunt</a></td><td>Docker Atlantis + Terragrunt</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terraform-aws-s3-bucket">terraform-aws-s3-bucket</a></td><td>Terraform module which creates S3 bucket resources on AWS</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/blog-frontend">blog-frontend</a></td><td>Sample website for building a frontend on AWS</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/dgokcin">dgokcin</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/sonarscan-dotnet">sonarscan-dotnet</a></td><td>GitHub Action SonarCloud/SonarQube scanner for .NET 5 and .NET Core applications with pull request decoration support</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/mac-dev-playbook">mac-dev-playbook</a></td><td>Mac setup and configuration via Ansible.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terraform-aws-ecs-atlantis">terraform-aws-ecs-atlantis</a></td><td>Terraform module for deploying Atlantis as an ECS Task</td><td align="center" width="12%">0 :star:</td></tr>
+</table>
 
 
-## 📊 Weekly Stats
-<!--START_SECTION:waka-->
 
-```txt
-From: 30 December 2023 - To: 06 January 2024
-
-YAML         4 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.20 %
-Python       2 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-Markdown     1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-TypeScript   57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-JSON         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-```
-
-<!--END_SECTION:waka-->
-
-## 📈 GitHub Stats
-[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Mon, 08 Jan 2024 22:00:19 UTC</i></sub>
