@@ -1,5 +1,6 @@
 ## 👤 About Me
-[![linkedin badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=linkedin)](https://www.linkedin.com/in/denizgokcin-478911117/)
+
+[![linkedin badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=linkedin)](https://www.linkedin.com/in/denizgokcin/)
 [![gmail Badge](https://img.shields.io/badge/Gmail-00000f?style=flat&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:dgokcin@gmail.com)
 [![bitbucket badge](https://img.shields.io/badge/dgokcin-00000f?style=flat&logo=bitbucket)](https://bitbucket.org/dgokcin/)
 [![dockerhub badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=docker)](https://hub.docker.com/u/denizgokcin)
@@ -9,6 +10,7 @@
 <!--- END_SECTION:terminal--->
 
 ## 🛠️ Technologies & Tools
+
 ![docker badge](https://img.shields.io/badge/Docker-00000f?style=flat&logo=docker)
 ![aws badge](https://img.shields.io/badge/AWS-00000f?style=flat&logo=amazon-aws)
 ![ecs](https://img.shields.io/badge/Amazon_ECS-00000f?style=flat&logo=amazon-ecs)
@@ -27,7 +29,6 @@
 ![vim badge](https://img.shields.io/badge/vim-00000f?style=flat&logo=vim)
 ![latex badge](https://img.shields.io/badge/LaTeX-00000f?style=flat&logo=latex)
 
-
 ## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 
@@ -44,6 +45,7 @@ JSON         51 mins         ██░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## 📈 GitHub Stats
+
 [![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
