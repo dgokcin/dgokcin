@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2024 - To: 15 January 2024
+From: 09 January 2024 - To: 16 January 2024
 
-Lua          15 hrs 26 mins  ███████████████████▓░░░░░   79.09 %
-Other        1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Git Config   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Vim Script   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Lua          14 hrs 35 mins  █████████████████████▓░░░   86.01 %
+Git Config   50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+YAML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Vim Script   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
