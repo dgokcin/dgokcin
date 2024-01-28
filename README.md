@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Terraform    2 hrs 58 mins   ████████████████▒░░░░░░░░   64.76 %
-Lua          46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Terraform    3 hrs           ██████████████████▓░░░░░░   74.00 %
+Lua          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JavaScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Bash         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
