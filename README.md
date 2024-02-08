@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
-JavaScript   3 hrs 57 mins   ██████████████████░░░░░░░   72.44 %
-YAML         40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Markdown     26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Terraform    21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+YAML         5 hrs 2 mins    ███████████████▒░░░░░░░░░   61.38 %
+JavaScript   2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
+Markdown     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Terraform    17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
