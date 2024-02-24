@@ -33,13 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-YAML        18 mins         ██████████████▒░░░░░░░░░░   56.83 %
-Lua         11 mins         ████████▓░░░░░░░░░░░░░░░░   34.99 %
-Text        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-JSON        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-HCL         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
