@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2024 - To: 08 March 2024
+From: 02 March 2024 - To: 09 March 2024
 
 Lua          7 hrs 19 mins   ████████████░░░░░░░░░░░░░   48.56 %
 Markdown     1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
