@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2024 - To: 23 March 2024
+From: 17 March 2024 - To: 24 March 2024
 
 Lua         2 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 %
 Bash        1 hr 43 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
