@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2024 - To: 30 March 2024
+From: 24 March 2024 - To: 31 March 2024
 
 Python      2 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.46 %
 Terraform   2 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 %
