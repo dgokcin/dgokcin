@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
 Terraform    9 hrs 43 mins   ██████████████████████░░░   87.79 %
 JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
