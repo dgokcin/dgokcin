@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2024 - To: 30 April 2024
+From: 24 April 2024 - To: 01 May 2024
 
-Terraform    1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
-Python       1 hr 39 mins    ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-Markdown     1 hr 38 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-Other        56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-Vim Script   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Terraform    1 hr 52 mins    █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+Python       1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+Markdown     1 hr 38 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+JSON         1 hr 28 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Other        1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
 ```
 
 <!--END_SECTION:waka-->
