@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2024 - To: 08 May 2024
+From: 02 May 2024 - To: 09 May 2024
 
-Python       3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-Makefile     3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-JSON         3 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-TypeScript   2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-YAML         2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Python       3 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
+JSON         3 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+TypeScript   2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+YAML         2 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+Markdown     1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:waka-->
