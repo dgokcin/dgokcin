@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
 JSON         4 hrs 50 mins   █████████████████░░░░░░░░   67.81 %
 C#           54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
