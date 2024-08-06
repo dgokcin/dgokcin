@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2024 - To: 03 August 2024
+From: 28 July 2024 - To: 04 August 2024
 
-Terraform    4 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.42 %
-YAML         3 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
-Other        1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-HCL          55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Markdown     35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Terraform    4 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.45 %
+YAML         3 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Other        1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+HCL          55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Markdown     35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
