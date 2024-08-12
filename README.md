@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
-YAML         11 hrs 30 mins  ███████████▓░░░░░░░░░░░░░   46.49 %
-Lua          5 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-JavaScript   3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Terraform    2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Markdown     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+YAML         11 hrs 32 mins  ██████████░░░░░░░░░░░░░░░   40.09 %
+Lua          8 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   28.39 %
+JavaScript   3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Terraform    2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Gosu         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
