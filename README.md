@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
-Markdown     5 hrs 58 mins   █████████████████▓░░░░░░░   70.24 %
-JavaScript   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Other        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-YAML         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown     6 hrs 34 mins   ████████████████░░░░░░░░░   63.44 %
+Other        39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+CMake        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+C#           28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+JavaScript   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
