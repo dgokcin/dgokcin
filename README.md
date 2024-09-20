@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Other        1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-TypeScript   1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Terraform    1 hr 17 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-YAML         1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Markdown     1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Markdown     1 hr 31 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+Other        1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
+JSON         1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+TypeScript   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+YAML         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 ```
 
 <!--END_SECTION:waka-->
