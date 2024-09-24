@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2024 - To: 21 September 2024
+From: 15 September 2024 - To: 22 September 2024
 
-Other        1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-Markdown     1 hr 12 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-JSON         1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-YAML         32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Lua          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Markdown     1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+Other        1 hr 9 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+JSON         1 hr 4 mins     ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+YAML         32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Lua          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
 ```
 
 <!--END_SECTION:waka-->
