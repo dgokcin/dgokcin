@@ -1,52 +1,30 @@
-## 👤 About Me
-
-[![linkedin badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=linkedin)](https://www.linkedin.com/in/denizgokcin/)
-[![gmail Badge](https://img.shields.io/badge/Gmail-00000f?style=flat&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:dgokcin@gmail.com)
-[![bitbucket badge](https://img.shields.io/badge/dgokcin-00000f?style=flat&logo=bitbucket)](https://bitbucket.org/dgokcin/)
-[![dockerhub badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=docker)](https://hub.docker.com/u/denizgokcin)
-
-<!--- START_SECTION:terminal--->
 ![gifOS](os.gif)
-<!--- END_SECTION:terminal--->
 
-## 🛠️ Technologies & Tools
 
-![docker badge](https://img.shields.io/badge/Docker-00000f?style=flat&logo=docker)
-![aws badge](https://img.shields.io/badge/AWS-00000f?style=flat&logo=amazon-aws)
-![ecs](https://img.shields.io/badge/Amazon_ECS-00000f?style=flat&logo=amazon-ecs)
-![lambda](https://img.shields.io/badge/AWS_Lambda-00000f?style=flat&logo=aws-lambda)
-![terraform badge](https://img.shields.io/badge/Terraform-00000f?style=flat&logo=terraform)
-![git badge](http://img.shields.io/badge/-Git-00000f?style=flat&logo=git&logoColor=FFFFFF)
-![actions badge](https://img.shields.io/badge/GitHub_Actions-00000f?style=flat&logo=github-actions)
-![sonarqube badge](https://img.shields.io/badge/SonarQube-00000f?style=flat&logo=sonarqube)
-![python badge](https://img.shields.io/badge/Python-00000f?style=flat&logo=python)
-![bash badge](https://img.shields.io/badge/bash-00000f?style=flat&logo=gnu-bash)
-![kubernetes badge](https://img.shields.io/badge/Kubernetes-00000f?style=flat&logo=kubernetes)
-![openshift badge](https://img.shields.io/badge/OpenShift-00000f?style=flat&logo=red-hat-open-shift)
-![jenkins badge](https://img.shields.io/badge/Jenkins-00000f?style=flat&logo=jenkins)
-![linux badge](https://img.shields.io/badge/linux-00000f?style=flat&logo=linux)
-![ansible badge](https://img.shields.io/badge/Ansible-00000f?style=flat&logo=ansible)
-![vim badge](https://img.shields.io/badge/vim-00000f?style=flat&logo=vim)
-![latex badge](https://img.shields.io/badge/LaTeX-00000f?style=flat&logo=latex)
+---
 
-## 📊 Weekly Stats
-<!--START_SECTION:waka-->
+## Popular Repositories
+<table>
+<tr><td><a href="https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints">dotnet-cursor-debugging-with-breakpoints</a></td><td></td><td align="center" width="12%">20 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/binance-triangle-arbitrage">binance-triangle-arbitrage</a></td><td>A short script for finding triangle arbitrage  opportunities in Binance.</td><td align="center" width="12%">10 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/dotfiles">dotfiles</a></td><td>A repository for storing my dotfiles.</td><td align="center" width="12%">10 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/design-patterns">design-patterns</a></td><td>Design Patterns implemented in Java.</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/petsc4py">petsc4py</a></td><td>A Dockerized environment with petsc and its python dependencies.</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/colorize-calendar">colorize-calendar</a></td><td>A Google App Script that colorizes and appends emojis to event titles</td><td align="center" width="12%">1 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/game-leaderboard">game-leaderboard</a></td><td>A REST API endpoint that manages a game that uses a leaderboard with players submitting new scores from around the world.</td><td align="center" width="12%">1 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/fast-cursor-move.nvim">fast-cursor-move.nvim</a></td><td>Accelerate "hjkl" moving. Also works in vscode-neovim.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/test">test</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/github-profile-terminal-action">github-profile-terminal-action</a></td><td>Create a GitHub profile README nested inside a terminal nested inside a GIF</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/typescript-sam-debugging">typescript-sam-debugging</a></td><td>A repo to demonstrate the workaround I used for debugging typescript SAM functions.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terraform-aws-ecs-atlantis">terraform-aws-ecs-atlantis</a></td><td>Terraform module for deploying Atlantis as an ECS Task</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/kickstart.nvim">kickstart.nvim</a></td><td>A launch point for your personal nvim configuration</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/release-please">release-please</a></td><td>generate release PRs based on the conventionalcommits.org spec</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/dgokcin">dgokcin</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terraform-aws-ecs-container-definition">terraform-aws-ecs-container-definition</a></td><td>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the  aws_ecs_task_definition Terraform resource</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terraform-aws-rds-cloudwatch-sns-alarms">terraform-aws-rds-cloudwatch-sns-alarms</a></td><td>Terraform module that configures important RDS alerts using CloudWatch and sends them to an SNS topic</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/dgokcin/terrateamio-action">terrateamio-action</a></td><td>Terrateam Action</td><td align="center" width="12%">0 :star:</td></tr>
+</table>
 
-```txt
-From: 15 September 2024 - To: 22 September 2024
 
-Markdown     1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-Other        1 hr 9 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
-JSON         1 hr 4 mins     ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-YAML         32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Lua          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-```
 
-<!--END_SECTION:waka-->
-
-## 📈 GitHub Stats
-
-[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Tue, 24 Sep 2024 18:43:14 UTC</i></sub>
