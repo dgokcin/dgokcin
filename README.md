@@ -46,7 +46,8 @@ C#           7 mins          █▒░░░░░░░░░░░░░░░
 
 ## 📈 GitHub Stats
 
-[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
-[![](./profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgokcin&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dgokcin&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dgokcin&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dgokcin&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dgokcin&theme=nord_dark&utcOffset=8)
