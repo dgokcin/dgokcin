@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2024 - To: 19 October 2024
+From: 14 October 2024 - To: 21 October 2024
 
-Terraform    13 hrs 20 mins  ████████████████▓░░░░░░░░   67.30 %
-YAML         3 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-HCL          1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Bash         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Terraform    13 hrs 10 mins  ██████████████▓░░░░░░░░░░   59.15 %
+YAML         6 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   28.91 %
+HCL          1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Bash         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Text         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
