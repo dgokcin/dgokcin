@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Terraform    7 hrs 30 mins   ████████████▓░░░░░░░░░░░░   50.31 %
-YAML         1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-JSON         1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-JavaScript   1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Bash         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Terraform    5 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   36.14 %
+HCL          2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+Bash         2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+YAML         1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+JavaScript   1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 ```
 
 <!--END_SECTION:waka-->
