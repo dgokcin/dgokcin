@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-YAML         5 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   44.73 %
-Terraform    4 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   36.38 %
-HCL          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Bash         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+YAML         7 hrs 32 mins   ███████████████░░░░░░░░░░   59.51 %
+Terraform    2 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+Bash         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+confini      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+HCL          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
