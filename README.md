@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-YAML         14 hrs 34 mins  ████████████████▓░░░░░░░░   66.50 %
-Lua          3 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Markdown     1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Terraform    31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+YAML         17 hrs 49 mins  ██████████████████░░░░░░░   72.56 %
+Lua          3 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Terraform    40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Markdown     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
