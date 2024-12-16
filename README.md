@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Terraform    4 hrs 47 mins   █████████████░░░░░░░░░░░░   51.67 %
-Lua          1 hr 59 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
-Git Config   52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Makefile     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-Markdown     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Terraform    5 hrs 38 mins   █████████████░░░░░░░░░░░░   52.46 %
+Lua          1 hr 59 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Markdown     1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Git Config   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Makefile     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->
