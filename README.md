@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Terraform    13 hrs 19 mins  ██████████████████▓░░░░░░   75.33 %
-Markdown     1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-YAML         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Git Config   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-HCL          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Terraform    15 hrs 59 mins  ███████████████████▓░░░░░   78.73 %
+Markdown     1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+YAML         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+HCL          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
