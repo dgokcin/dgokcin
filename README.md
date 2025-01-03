@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Other       5 mins          ████████████▒░░░░░░░░░░░░   49.48 %
-Terraform   5 mins          ████████████▒░░░░░░░░░░░░   49.00 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other       12 mins         █████████████████░░░░░░░░   68.13 %
+Terraform   5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
