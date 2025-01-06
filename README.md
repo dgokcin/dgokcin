@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
-Terraform   5 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.97 %
-HCL         2 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-YAML        1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Lua         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Markdown    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Terraform    5 hrs 9 mins    ████████████▒░░░░░░░░░░░░   48.68 %
+HCL          3 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.57 %
+YAML         1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Lua          39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Other        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
