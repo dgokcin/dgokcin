@@ -42,12 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2025 - To: 18 January 2025
+From: 12 January 2025 - To: 19 January 2025
 
-Other       29 mins         ██████████████░░░░░░░░░░░   56.43 %
-YAML        22 mins         ██████████▓░░░░░░░░░░░░░░   42.12 %
-gitconfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-confini     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Other        29 mins         ████████▓░░░░░░░░░░░░░░░░   35.22 %
+YAML         22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+Text         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+JavaScript   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+gitconfig    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
