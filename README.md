@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2025 - To: 28 January 2025
+From: 22 January 2025 - To: 29 January 2025
 
-Terraform    7 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.38 %
-YAML         1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-JavaScript   1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Bash         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Terraform    10 hrs 8 mins   ████████████████░░░░░░░░░   64.33 %
+YAML         1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+JavaScript   1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
