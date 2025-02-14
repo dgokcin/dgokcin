@@ -1,9 +1,7 @@
 ## 👤 About Me
-
-[![linkedin badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=linkedin)](https://www.linkedin.com/in/denizgokcin/)
-[![gmail Badge](https://img.shields.io/badge/Gmail-00000f?style=flat&logo=Gmail&logoColor=white&link=mailto:dgokcin@gmail.com)](mailto:dgokcin@gmail.com)
-[![bitbucket badge](https://img.shields.io/badge/dgokcin-00000f?style=flat&logo=bitbucket)](https://bitbucket.org/dgokcin/)
-[![dockerhub badge](https://img.shields.io/badge/denizgokcin-00000f?style=flat&logo=docker)](https://hub.docker.com/u/denizgokcin)
+[![linkedin badge](https://img.shields.io/badge/denizgokcin-ffffff?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/denizgokcin/)
+[![bitbucket badge](https://img.shields.io/badge/dgokcin-ffffff?style=flat&logo=bitbucket&logoColor=0052CC)](https://bitbucket.org/dgokcin/)
+[![dockerhub badge](https://img.shields.io/badge/denizgokcin-ffffff?style=flat&logo=docker&logoColor=2496ED)](https://hub.docker.com/u/denizgokcin)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dgokcin)
 
 <!--- START_SECTION:terminal--->
