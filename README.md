@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2025 - To: 28 February 2025
+From: 22 February 2025 - To: 01 March 2025
 
-YAML         15 hrs 46 mins  ████████████▓░░░░░░░░░░░░   50.25 %
-Markdown     8 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
-Other        1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Lua          1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-JavaScript   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+YAML         15 hrs 27 mins  █████████████░░░░░░░░░░░░   51.91 %
+Markdown     7 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
+Lua          1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Other        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+JavaScript   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
