@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-YAML              11 hrs 46 mins  ████████████████▒░░░░░░░░   64.88 %
-Markdown          2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-Other             54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Terraform         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Bash              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+YAML              11 hrs 42 mins  ███████████████▒░░░░░░░░░   61.49 %
+Markdown          2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Other             1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Bash              1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Terraform         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
