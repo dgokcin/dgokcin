@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2025 - To: 08 May 2025
+From: 02 May 2025 - To: 09 May 2025
 
-Terraform    6 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
-TypeScript   4 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-JSON         3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Markdown     1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-Bash         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Terraform    6 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   36.07 %
+TypeScript   4 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+JSON         2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Markdown     1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Bash         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
