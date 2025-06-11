@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-Markdown      9 hrs 22 mins   ████████████▓░░░░░░░░░░░░   50.06 %
-TypeScript    2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Other         2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-JSON          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-YAML          1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Markdown      10 hrs 21 mins  █████████████▒░░░░░░░░░░░   53.13 %
+TypeScript    2 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Other         2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+JSON          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+YAML          1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->
