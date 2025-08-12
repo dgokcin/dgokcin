@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
 YAML         4 hrs 6 mins    ███████████▓░░░░░░░░░░░░░   46.34 %
 Python       1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
