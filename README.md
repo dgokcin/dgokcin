@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2025 - To: 02 September 2025
+From: 27 August 2025 - To: 03 September 2025
 
-YAML              2 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.81 %
-Docker            1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-Other             58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-JavaScript        35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Vue.js            32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+YAML              1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+JavaScript        1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+Docker            1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+Other             59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Vue.js            32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
 ```
 
 <!--END_SECTION:waka-->
