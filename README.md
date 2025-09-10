@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-YAML              3 hrs 25 mins   ████████▒░░░░░░░░░░░░░░░░   33.54 %
-JavaScript        1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Docker            1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Terraform         1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Other             57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+YAML         4 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   45.92 %
+Terraform    2 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+JavaScript   1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+Markdown     1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Vue.js       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
