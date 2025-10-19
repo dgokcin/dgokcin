@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-XML               3 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   32.26 %
-Java              1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-Terraform         1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Bash              1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Markdown          1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+XML               3 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 %
+Java              2 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+Bash              2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Terraform         1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Markdown          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
 ```
 
 <!--END_SECTION:waka-->
