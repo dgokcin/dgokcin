@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-YAML              3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.75 %
-Java Properties   1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
-Bash              1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Markdown          54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Terraform         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+YAML              2 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.91 %
+Markdown          58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+Bash              41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Java Properties   31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Java              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
