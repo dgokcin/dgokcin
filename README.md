@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 08 December 2025
+From: 02 December 2025 - To: 09 December 2025
 
-Markdown     7 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-YAML         6 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-Terraform    5 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-TypeScript   4 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Bash         2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Terraform    7 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Markdown     7 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+YAML         6 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+TypeScript   5 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+Bash         2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
