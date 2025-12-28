@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-YAML        1 hr 36 mins    █████████▓░░░░░░░░░░░░░░░   38.85 %
-Docker      57 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-Markdown    45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-sh          18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Terraform   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+YAML        1 hr 24 mins    █████████████▒░░░░░░░░░░░   53.05 %
+Docker      32 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+Markdown    20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Terraform   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Bash        9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:waka-->
