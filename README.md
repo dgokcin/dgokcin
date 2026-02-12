@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Terraform      4 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
-Markdown       4 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.47 %
-YAML           2 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-JSON           1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Other          1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Markdown       4 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   35.97 %
+Terraform      2 hrs 54 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+YAML           2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
+JSON           1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Bash           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
