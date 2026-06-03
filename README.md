@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-Markdown     4 hrs 59 mins         ████████▒░░░░░░░░░░░░░░░░   33.84 %
-YAML         4 hrs 32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-Lua          1 hr 59 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-JavaScript   42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Terraform    41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Markdown     6 hrs 24 mins         █████████░░░░░░░░░░░░░░░░   35.48 %
+YAML         5 hrs 19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Lua          1 hr 59 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Terraform    1 hr 29 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+JavaScript   42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
