@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2026 - To: 28 June 2026
+From: 23 June 2026 - To: 30 June 2026
 
-Markdown     8 hrs 31 mins         ████████▓░░░░░░░░░░░░░░░░   34.98 %
-YAML         7 hrs 33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.97 %
-Jinja2       1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-JavaScript   59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-conf         58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+YAML         7 hrs 16 mins         ████████░░░░░░░░░░░░░░░░░   31.86 %
+Markdown     7 hrs                 ███████▓░░░░░░░░░░░░░░░░░   30.70 %
+JavaScript   1 hr 38 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+TypeScript   1 hr 3 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+conf         1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
