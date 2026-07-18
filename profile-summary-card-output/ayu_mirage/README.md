@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/dgokcin/dgokcin/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)
+```
+
+    
