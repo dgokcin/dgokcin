@@ -52,13 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2026 - To: 19 July 2026
+From: 13 July 2026 - To: 20 July 2026
 
-YAML          6 hrs 33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.13 %
-Markdown      5 hrs 6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-TypeScript    2 hrs 37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Other         1 hr 50 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Terraform     1 hr 50 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+YAML          5 hrs 5 mins          ███████░░░░░░░░░░░░░░░░░░   28.04 %
+Markdown      3 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Other         2 hrs 5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+TypeScript    1 hr 56 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Terraform     1 hr 50 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
 ```
 
 <!--END_SECTION:waka-->
